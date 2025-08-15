@@ -121,6 +121,8 @@ Before you begin, make sure you have the following:
 - Example path: `\\192.168.1.150\Documents`
 - Use your TrueNAS username and password.
 
+If your system reports - "Already a connected Directory Found" or Some errors like that : 
+- use `net use * /delete` and try connecting again.
 ---
 
 ## 6 Installing Plex Media Server
